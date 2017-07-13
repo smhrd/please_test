@@ -5,7 +5,9 @@ public class SimpleMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("안녕2222222");
-		System.out.println("하이~");
+
+		System.out.println("하이~방2222");
+
 
 		int cnt = 0;
 		for (int i = 1; i <= 50; i++) {
